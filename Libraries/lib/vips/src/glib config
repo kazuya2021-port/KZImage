@@ -1,0 +1,1 @@
+./configure --prefix=/myroot --enable-silent-rules --disable-dependency-tracking --enable-gc-friendly --enable-static --enable-shared=no --disable-selinux --disable-fam --with-libiconv=native --with-pcre=system LDFLAGS="-L/usr/local/lib -L/Users/uchiyama_macmini/Public/vips_work/lib" LIBS="-liconv -lintl"
